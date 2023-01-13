@@ -2,7 +2,7 @@
 
 Android Programlama Kursu
 
-1.Hesap Makinesi
+1. Hesap Makinesi
 
 
 
