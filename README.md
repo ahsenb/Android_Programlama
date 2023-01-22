@@ -3,6 +3,6 @@
 Android Programlama Kursu
 
 1. Hesap Makinesi
-2. Json Dosyasını Okuma
+2. JSON Dosyasını Okuma
 
 
